@@ -1,0 +1,17 @@
+# Flutter / Dart / Android
+.build/
+.dart_tool/
+.packages
+.pub-cache/
+flutter_export_environment.sh
+android/.gradle/
+android/app/build/
+android/local.properties
+*.iml
+.idea/
+.gradle/
+build/
+DerivedData/
+# OS noise
+.DS_Store
+Thumbs.db
